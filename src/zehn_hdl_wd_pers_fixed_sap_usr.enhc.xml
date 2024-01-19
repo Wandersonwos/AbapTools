@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SHORTTEXT>Corrige utilizador da aplicação na personalização de Webdynpro</SHORTTEXT>
+   <ENH_CHILDS>
+    <ENHNAME>ZEHN_HDL_WD_PERS_SET_USER</ENHNAME>
+    <ENHNAME>ZEHN_SET_WDUSER_ONSET_PERS_D2</ENHNAME>
+    <ENHNAME>ZEHN_SET_WDUSER_ONSET_PERS_DEF</ENHNAME>
+    <ENHNAME>ZEHN_SET_WDUSER_ONSHLP_FAVLIST</ENHNAME>
+    <ENHNAME>ZEHN_SET_WD_USER_ON_LOAD_PERS</ENHNAME>
+    <ENHNAME>ZEHN_SET_WD_USER_ON_SAVE_PERS</ENHNAME>
+   </ENH_CHILDS>
+   <SOTR>
+    <item>
+     <HEADER>
+      <CONCEPT>001DD8B71DF81EDDACA6705A11BE9127</CONCEPT>
+      <CREA_LAN>P</CREA_LAN>
+      <TRALA_TYPE>1</TRALA_TYPE>
+      <OBJID_VEC>AACA</OBJID_VEC>
+     </HEADER>
+     <ENTRIES>
+      <SOTR_TEXT>
+       <CONCEPT>001DD8B71DF81EDDACA6705A11BE9127</CONCEPT>
+       <LANGU>P</LANGU>
+       <LFD_NUM>0001</LFD_NUM>
+       <FLAG_CNTXT>X</FLAG_CNTXT>
+       <STATUS>R</STATUS>
+       <LENGTH>093</LENGTH>
+       <TEXT>Corrige utilizador da aplicação na personalização de Webdynpro</TEXT>
+      </SOTR_TEXT>
+     </ENTRIES>
+    </item>
+   </SOTR>
+   <SOTR_USE>
+    <SOTR_USE>
+     <PGMID>R3TR</PGMID>
+     <OBJECT>ENHC</OBJECT>
+     <OBJ_NAME>ZEHN_HDL_WD_PERS_FIXED_SAP_USR</OBJ_NAME>
+     <CONCEPT>001DD8B71DF81EDDACA6705A11BE9127</CONCEPT>
+     <LFD_NUM>0001</LFD_NUM>
+    </SOTR_USE>
+   </SOTR_USE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
